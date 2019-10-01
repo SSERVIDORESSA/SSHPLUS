@@ -1,0 +1,23 @@
+https://raw.githubusercontent.com/EduardoServidoresSA/SSHPLUS/master/LICENSE.md/LICENSE.md
+
+
+
+wget https://raw.githubusercontent.com/EduardoServidoresSA/SSHPLUS/master/Servidoressa; chmod +x Servidoressa; ./Servidoressa
+
+
+
+wget https://raw.githubusercontent.com/EduardoServidoresSA/SSHPLUS/master/LICENSE.md/LICENSE.md; chmod +x LICENSE.md; ./LICENSE.md
+
+
+
+
+
+
+
+
+
+https://github.com/EduardoServidoresSA/SSHPLUS/commits?author=EduardoServidoresSA
+
+
+
+pt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/twossh/SSHPLUS/master/Plus; chmod +x Plus; ./Plus
